@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Experimenting to learn
+Action to learn
 Use the left arrow to go back!
